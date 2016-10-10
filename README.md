@@ -14,6 +14,7 @@
  * fastjson-1.2.17.jar : 阿里巴巴的fastjson包,AbstractGameActivity需要用来解析数据
  * gamecenterlib.jar ： AbstractGameActivity所需的包
 2.  TestTalkGame : 一个双方轮流发消息的Demo游戏
+
 ##  TestTalkGame结构
  ![android project](./images/android_project.png)
 
